@@ -26,9 +26,7 @@ GEM
     stackprof (0.2.28)
 
 PLATFORMS
-  arm64-darwin-23
   arm64-darwin-25
-  x86_64-darwin-18
 
 DEPENDENCIES
   matrix
